@@ -17,4 +17,9 @@ public class Cviko05_ListNode
     public Cviko05_ListNode getNextNode() {
         return nextNode;
     }
+
+    public void setNextNode(Cviko05_ListNode nextNode){
+        this.nextNode = nextNode;
+    }
+
 }
